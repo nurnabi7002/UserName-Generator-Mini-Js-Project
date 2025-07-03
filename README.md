@@ -49,10 +49,6 @@ The app takes a full name from the user, removes the spaces, converts it to lowe
 
 ---
 
-## 📸 Screenshot
-
-![App Screenshot](https://i.imgur.com/JfrZ2Rm.png)
-
 ---
 
 ## 📚 Author
