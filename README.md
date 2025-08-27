@@ -7,7 +7,7 @@ The app takes a full name from the user, removes the spaces, converts it to lowe
 
 ## 🚀 Live Demo
 
-🔗 [Click to View Live](https://nurnabi7002.github.io/UserName-Generator-Mini-Ja-Project/)
+🔗 [Click to View Live](https://nurnabi7002.github.io/UserName-Generator-Mini-Js-Project/)
 
 ---
 
